@@ -1,0 +1,10 @@
+H:\LogP\Atividades - While\Atividades - While\bin\Debug\Atividades - While.exe.config
+H:\LogP\Atividades - While\Atividades - While\bin\Debug\Atividades - While.exe
+H:\LogP\Atividades - While\Atividades - While\bin\Debug\Atividades - While.pdb
+H:\LogP\Atividades - While\Atividades - While\obj\Debug\Atividades - While.csproj.AssemblyReference.cache
+H:\LogP\Atividades - While\Atividades - While\obj\Debug\Atividades___While.Form1.resources
+H:\LogP\Atividades - While\Atividades - While\obj\Debug\Atividades___While.Properties.Resources.resources
+H:\LogP\Atividades - While\Atividades - While\obj\Debug\Atividades - While.csproj.GenerateResource.cache
+H:\LogP\Atividades - While\Atividades - While\obj\Debug\Atividades - While.csproj.CoreCompileInputs.cache
+H:\LogP\Atividades - While\Atividades - While\obj\Debug\Atividades - While.exe
+H:\LogP\Atividades - While\Atividades - While\obj\Debug\Atividades - While.pdb

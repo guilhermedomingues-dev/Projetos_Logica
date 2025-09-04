@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\bin\Debug\net8.0\consoleMatriz.exe
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\bin\Debug\net8.0\consoleMatriz.deps.json
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\bin\Debug\net8.0\consoleMatriz.runtimeconfig.json
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\bin\Debug\net8.0\consoleMatriz.dll
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\bin\Debug\net8.0\consoleMatriz.pdb
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\consoleMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\consoleMatriz.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\consoleMatriz.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\consoleMatriz.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\consoleMatriz.dll
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\refint\consoleMatriz.dll
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\consoleMatriz.pdb
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\consoleMatriz.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\projetos_logP\consoleMatriz\consoleMatriz\obj\Debug\net8.0\ref\consoleMatriz.dll

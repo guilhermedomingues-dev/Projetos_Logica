@@ -1,0 +1,10 @@
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\bin\Debug\escolha_caso_projeto.exe.config
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\bin\Debug\escolha_caso_projeto.exe
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\bin\Debug\escolha_caso_projeto.pdb
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\obj\Debug\escolha_caso_projeto.csproj.AssemblyReference.cache
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\obj\Debug\escolha_caso_projeto.Form1.resources
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\obj\Debug\escolha_caso_projeto.Properties.Resources.resources
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\obj\Debug\escolha_caso_projeto.csproj.GenerateResource.cache
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\obj\Debug\escolha_caso_projeto.csproj.CoreCompileInputs.cache
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\obj\Debug\escolha_caso_projeto.exe
+H:\LogP\escolha_caso_projeto\escolha_caso_projeto\obj\Debug\escolha_caso_projeto.pdb
