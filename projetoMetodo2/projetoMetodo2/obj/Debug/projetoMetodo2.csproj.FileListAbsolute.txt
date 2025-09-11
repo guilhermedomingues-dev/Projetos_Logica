@@ -1,0 +1,10 @@
+H:\LogP\projetoMetodo2\projetoMetodo2\bin\Debug\projetoMetodo2.exe.config
+H:\LogP\projetoMetodo2\projetoMetodo2\bin\Debug\projetoMetodo2.exe
+H:\LogP\projetoMetodo2\projetoMetodo2\bin\Debug\projetoMetodo2.pdb
+H:\LogP\projetoMetodo2\projetoMetodo2\obj\Debug\projetoMetodo2.csproj.AssemblyReference.cache
+H:\LogP\projetoMetodo2\projetoMetodo2\obj\Debug\projetoMetodo2.Form1.resources
+H:\LogP\projetoMetodo2\projetoMetodo2\obj\Debug\projetoMetodo2.Properties.Resources.resources
+H:\LogP\projetoMetodo2\projetoMetodo2\obj\Debug\projetoMetodo2.csproj.GenerateResource.cache
+H:\LogP\projetoMetodo2\projetoMetodo2\obj\Debug\projetoMetodo2.csproj.CoreCompileInputs.cache
+H:\LogP\projetoMetodo2\projetoMetodo2\obj\Debug\projetoMetodo2.exe
+H:\LogP\projetoMetodo2\projetoMetodo2\obj\Debug\projetoMetodo2.pdb
